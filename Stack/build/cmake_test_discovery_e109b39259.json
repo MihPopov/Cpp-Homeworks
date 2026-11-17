@@ -1,0 +1,203 @@
+{
+  "tests": 37,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "Constness",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "Test",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 11
+        }
+      ]
+    },
+    {
+      "name": "StackTest",
+      "tests": 36,
+      "testsuite": [
+        {
+          "name": "SimpleTop",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 26
+        },
+        {
+          "name": "DoublePush",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 35
+        },
+        {
+          "name": "EmptyPop",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 48
+        },
+        {
+          "name": "PeekAfterSingleInsert",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 53
+        },
+        {
+          "name": "SizeTracksGrowth",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 60
+        },
+        {
+          "name": "InterleavedOpsWithClear",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 74
+        },
+        {
+          "name": "PopLIFO",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 96
+        },
+        {
+          "name": "AllOperationsOneObject",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 108
+        },
+        {
+          "name": "PeekShiftsAfterRemoval",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 118
+        },
+        {
+          "name": "ClearResetsCount",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 131
+        },
+        {
+          "name": "RemovesInReverse",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 141
+        },
+        {
+          "name": "SizeStaysZeroOnEmpty",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 157
+        },
+        {
+          "name": "PeekThenClear",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 163
+        },
+        {
+          "name": "ExtraPop",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 174
+        },
+        {
+          "name": "Duplicats",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 184
+        },
+        {
+          "name": "CountOneTwoMany",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 197
+        },
+        {
+          "name": "TopTopTop",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 216
+        },
+        {
+          "name": "ClearOnEmptyThenUse",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 229
+        },
+        {
+          "name": "NotReallyLongTokens",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 238
+        },
+        {
+          "name": "RemnantCountAfterPops",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 250
+        },
+        {
+          "name": "UpDownSizes",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 265
+        },
+        {
+          "name": "PopOrTop_thatisthequestion",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 275
+        },
+        {
+          "name": "ClearPush",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 288
+        },
+        {
+          "name": "Exhaust",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 300
+        },
+        {
+          "name": "PeekClear",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 317
+        },
+        {
+          "name": "SizeAroundRemoval",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 328
+        },
+        {
+          "name": "SizePop",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 338
+        },
+        {
+          "name": "PeekClear_2",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 355
+        },
+        {
+          "name": "ClearInMid",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 366
+        },
+        {
+          "name": "PopOrTop_thatisthequestion_2",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 379
+        },
+        {
+          "name": "MidSizedToken_Put",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 396
+        },
+        {
+          "name": "HugeToken_Put",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 409
+        },
+        {
+          "name": "MidSizedToken_Peek",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 422
+        },
+        {
+          "name": "HugeToken_Peek",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 434
+        },
+        {
+          "name": "Hang",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 449
+        },
+        {
+          "name": "Changed",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/Stack\/tests\/test.cpp",
+          "line": 464
+        }
+      ]
+    }
+  ]
+}
