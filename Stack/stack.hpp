@@ -3,13 +3,16 @@
 struct Stack;
 
 void Clear(Stack* stack);
-size_t Size(const Stack* stack);
 char** recreate_data(Stack* oldStack, size_t newSize);
 
 struct Stack {
   // YOUR CODE HERE
   char** data = nullptr;
   size_t size = 0;
+
+  ~Stack() {
+    Clear(this);
+  }
 };
 
 // YOUR CODE HERE
