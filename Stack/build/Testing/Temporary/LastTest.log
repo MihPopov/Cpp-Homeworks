@@ -1,10 +1,10 @@
-Start testing: Nov 20 14:05 MSK
+Start testing: Nov 23 18:26 MSK
 ----------------------------------------------------------
 1/37 Testing: Constness.Test
 1/37 Test: Constness.Test
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=Constness.Test" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"Constness.Test" start time: Nov 20 14:05 MSK
+"Constness.Test" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -20,10 +20,10 @@ Note: Google Test filter = Constness.Test
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.07 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"Constness.Test" end time: Nov 20 14:05 MSK
+"Constness.Test" end time: Nov 23 18:26 MSK
 "Constness.Test" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -31,7 +31,7 @@ Test Passed.
 2/37 Test: StackTest.SimpleTop
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.SimpleTop" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.SimpleTop" start time: Nov 20 14:05 MSK
+"StackTest.SimpleTop" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -47,10 +47,10 @@ Note: Google Test filter = StackTest.SimpleTop
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.04 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.SimpleTop" end time: Nov 20 14:05 MSK
+"StackTest.SimpleTop" end time: Nov 23 18:26 MSK
 "StackTest.SimpleTop" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -58,7 +58,7 @@ Test Passed.
 3/37 Test: StackTest.DoublePush
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.DoublePush" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.DoublePush" start time: Nov 20 14:05 MSK
+"StackTest.DoublePush" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -74,10 +74,10 @@ Note: Google Test filter = StackTest.DoublePush
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.05 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.DoublePush" end time: Nov 20 14:05 MSK
+"StackTest.DoublePush" end time: Nov 23 18:26 MSK
 "StackTest.DoublePush" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -85,7 +85,7 @@ Test Passed.
 4/37 Test: StackTest.EmptyPop
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.EmptyPop" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.EmptyPop" start time: Nov 20 14:05 MSK
+"StackTest.EmptyPop" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -101,10 +101,10 @@ Note: Google Test filter = StackTest.EmptyPop
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.05 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.EmptyPop" end time: Nov 20 14:05 MSK
+"StackTest.EmptyPop" end time: Nov 23 18:26 MSK
 "StackTest.EmptyPop" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -112,7 +112,7 @@ Test Passed.
 5/37 Test: StackTest.PeekAfterSingleInsert
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.PeekAfterSingleInsert" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.PeekAfterSingleInsert" start time: Nov 20 14:05 MSK
+"StackTest.PeekAfterSingleInsert" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -128,10 +128,10 @@ Note: Google Test filter = StackTest.PeekAfterSingleInsert
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.05 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.PeekAfterSingleInsert" end time: Nov 20 14:05 MSK
+"StackTest.PeekAfterSingleInsert" end time: Nov 23 18:26 MSK
 "StackTest.PeekAfterSingleInsert" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -139,7 +139,7 @@ Test Passed.
 6/37 Test: StackTest.SizeTracksGrowth
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.SizeTracksGrowth" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.SizeTracksGrowth" start time: Nov 20 14:05 MSK
+"StackTest.SizeTracksGrowth" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -155,10 +155,10 @@ Note: Google Test filter = StackTest.SizeTracksGrowth
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.05 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.SizeTracksGrowth" end time: Nov 20 14:05 MSK
+"StackTest.SizeTracksGrowth" end time: Nov 23 18:26 MSK
 "StackTest.SizeTracksGrowth" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -166,7 +166,7 @@ Test Passed.
 7/37 Test: StackTest.InterleavedOpsWithClear
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.InterleavedOpsWithClear" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.InterleavedOpsWithClear" start time: Nov 20 14:05 MSK
+"StackTest.InterleavedOpsWithClear" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -182,10 +182,10 @@ Note: Google Test filter = StackTest.InterleavedOpsWithClear
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.05 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.InterleavedOpsWithClear" end time: Nov 20 14:05 MSK
+"StackTest.InterleavedOpsWithClear" end time: Nov 23 18:26 MSK
 "StackTest.InterleavedOpsWithClear" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -193,7 +193,7 @@ Test Passed.
 8/37 Test: StackTest.PopLIFO
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.PopLIFO" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.PopLIFO" start time: Nov 20 14:05 MSK
+"StackTest.PopLIFO" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -209,10 +209,10 @@ Note: Google Test filter = StackTest.PopLIFO
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.PopLIFO" end time: Nov 20 14:05 MSK
+"StackTest.PopLIFO" end time: Nov 23 18:26 MSK
 "StackTest.PopLIFO" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -220,7 +220,7 @@ Test Passed.
 9/37 Test: StackTest.AllOperationsOneObject
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.AllOperationsOneObject" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.AllOperationsOneObject" start time: Nov 20 14:05 MSK
+"StackTest.AllOperationsOneObject" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -236,10 +236,10 @@ Note: Google Test filter = StackTest.AllOperationsOneObject
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.04 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.AllOperationsOneObject" end time: Nov 20 14:05 MSK
+"StackTest.AllOperationsOneObject" end time: Nov 23 18:26 MSK
 "StackTest.AllOperationsOneObject" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -247,7 +247,7 @@ Test Passed.
 10/37 Test: StackTest.PeekShiftsAfterRemoval
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.PeekShiftsAfterRemoval" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.PeekShiftsAfterRemoval" start time: Nov 20 14:05 MSK
+"StackTest.PeekShiftsAfterRemoval" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -263,10 +263,10 @@ Note: Google Test filter = StackTest.PeekShiftsAfterRemoval
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.06 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.PeekShiftsAfterRemoval" end time: Nov 20 14:05 MSK
+"StackTest.PeekShiftsAfterRemoval" end time: Nov 23 18:26 MSK
 "StackTest.PeekShiftsAfterRemoval" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -274,7 +274,7 @@ Test Passed.
 11/37 Test: StackTest.ClearResetsCount
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.ClearResetsCount" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.ClearResetsCount" start time: Nov 20 14:05 MSK
+"StackTest.ClearResetsCount" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -290,10 +290,10 @@ Note: Google Test filter = StackTest.ClearResetsCount
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.06 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.ClearResetsCount" end time: Nov 20 14:05 MSK
+"StackTest.ClearResetsCount" end time: Nov 23 18:26 MSK
 "StackTest.ClearResetsCount" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -301,7 +301,7 @@ Test Passed.
 12/37 Test: StackTest.RemovesInReverse
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.RemovesInReverse" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.RemovesInReverse" start time: Nov 20 14:05 MSK
+"StackTest.RemovesInReverse" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -317,10 +317,10 @@ Note: Google Test filter = StackTest.RemovesInReverse
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.07 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.RemovesInReverse" end time: Nov 20 14:05 MSK
+"StackTest.RemovesInReverse" end time: Nov 23 18:26 MSK
 "StackTest.RemovesInReverse" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -328,7 +328,7 @@ Test Passed.
 13/37 Test: StackTest.SizeStaysZeroOnEmpty
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.SizeStaysZeroOnEmpty" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.SizeStaysZeroOnEmpty" start time: Nov 20 14:05 MSK
+"StackTest.SizeStaysZeroOnEmpty" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -344,10 +344,10 @@ Note: Google Test filter = StackTest.SizeStaysZeroOnEmpty
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.04 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.SizeStaysZeroOnEmpty" end time: Nov 20 14:05 MSK
+"StackTest.SizeStaysZeroOnEmpty" end time: Nov 23 18:26 MSK
 "StackTest.SizeStaysZeroOnEmpty" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -355,7 +355,7 @@ Test Passed.
 14/37 Test: StackTest.PeekThenClear
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.PeekThenClear" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.PeekThenClear" start time: Nov 20 14:05 MSK
+"StackTest.PeekThenClear" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -371,10 +371,10 @@ Note: Google Test filter = StackTest.PeekThenClear
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.PeekThenClear" end time: Nov 20 14:05 MSK
+"StackTest.PeekThenClear" end time: Nov 23 18:26 MSK
 "StackTest.PeekThenClear" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -382,7 +382,7 @@ Test Passed.
 15/37 Test: StackTest.ExtraPop
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.ExtraPop" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.ExtraPop" start time: Nov 20 14:05 MSK
+"StackTest.ExtraPop" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -398,10 +398,10 @@ Note: Google Test filter = StackTest.ExtraPop
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.03 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.ExtraPop" end time: Nov 20 14:05 MSK
+"StackTest.ExtraPop" end time: Nov 23 18:26 MSK
 "StackTest.ExtraPop" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -409,7 +409,7 @@ Test Passed.
 16/37 Test: StackTest.Duplicats
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.Duplicats" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.Duplicats" start time: Nov 20 14:05 MSK
+"StackTest.Duplicats" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -425,10 +425,10 @@ Note: Google Test filter = StackTest.Duplicats
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.03 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.Duplicats" end time: Nov 20 14:05 MSK
+"StackTest.Duplicats" end time: Nov 23 18:26 MSK
 "StackTest.Duplicats" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -436,7 +436,7 @@ Test Passed.
 17/37 Test: StackTest.CountOneTwoMany
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.CountOneTwoMany" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.CountOneTwoMany" start time: Nov 20 14:05 MSK
+"StackTest.CountOneTwoMany" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -452,10 +452,10 @@ Note: Google Test filter = StackTest.CountOneTwoMany
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.CountOneTwoMany" end time: Nov 20 14:05 MSK
+"StackTest.CountOneTwoMany" end time: Nov 23 18:26 MSK
 "StackTest.CountOneTwoMany" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -463,7 +463,7 @@ Test Passed.
 18/37 Test: StackTest.TopTopTop
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.TopTopTop" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.TopTopTop" start time: Nov 20 14:05 MSK
+"StackTest.TopTopTop" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -479,10 +479,10 @@ Note: Google Test filter = StackTest.TopTopTop
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.03 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.TopTopTop" end time: Nov 20 14:05 MSK
+"StackTest.TopTopTop" end time: Nov 23 18:26 MSK
 "StackTest.TopTopTop" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -490,7 +490,7 @@ Test Passed.
 19/37 Test: StackTest.ClearOnEmptyThenUse
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.ClearOnEmptyThenUse" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.ClearOnEmptyThenUse" start time: Nov 20 14:05 MSK
+"StackTest.ClearOnEmptyThenUse" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -506,10 +506,10 @@ Note: Google Test filter = StackTest.ClearOnEmptyThenUse
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.ClearOnEmptyThenUse" end time: Nov 20 14:05 MSK
+"StackTest.ClearOnEmptyThenUse" end time: Nov 23 18:26 MSK
 "StackTest.ClearOnEmptyThenUse" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -517,7 +517,7 @@ Test Passed.
 20/37 Test: StackTest.NotReallyLongTokens
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.NotReallyLongTokens" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.NotReallyLongTokens" start time: Nov 20 14:05 MSK
+"StackTest.NotReallyLongTokens" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -533,10 +533,10 @@ Note: Google Test filter = StackTest.NotReallyLongTokens
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.03 sec
+Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.NotReallyLongTokens" end time: Nov 20 14:05 MSK
+"StackTest.NotReallyLongTokens" end time: Nov 23 18:26 MSK
 "StackTest.NotReallyLongTokens" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -544,7 +544,7 @@ Test Passed.
 21/37 Test: StackTest.RemnantCountAfterPops
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.RemnantCountAfterPops" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.RemnantCountAfterPops" start time: Nov 20 14:05 MSK
+"StackTest.RemnantCountAfterPops" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -560,10 +560,10 @@ Note: Google Test filter = StackTest.RemnantCountAfterPops
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.04 sec
+Test time =   0.08 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.RemnantCountAfterPops" end time: Nov 20 14:05 MSK
+"StackTest.RemnantCountAfterPops" end time: Nov 23 18:26 MSK
 "StackTest.RemnantCountAfterPops" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -571,7 +571,7 @@ Test Passed.
 22/37 Test: StackTest.UpDownSizes
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.UpDownSizes" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.UpDownSizes" start time: Nov 20 14:05 MSK
+"StackTest.UpDownSizes" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -587,10 +587,10 @@ Note: Google Test filter = StackTest.UpDownSizes
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.03 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.UpDownSizes" end time: Nov 20 14:05 MSK
+"StackTest.UpDownSizes" end time: Nov 23 18:26 MSK
 "StackTest.UpDownSizes" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -598,7 +598,7 @@ Test Passed.
 23/37 Test: StackTest.PopOrTop_thatisthequestion
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.PopOrTop_thatisthequestion" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.PopOrTop_thatisthequestion" start time: Nov 20 14:05 MSK
+"StackTest.PopOrTop_thatisthequestion" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -614,10 +614,10 @@ Note: Google Test filter = StackTest.PopOrTop_thatisthequestion
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.03 sec
+Test time =   0.06 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.PopOrTop_thatisthequestion" end time: Nov 20 14:05 MSK
+"StackTest.PopOrTop_thatisthequestion" end time: Nov 23 18:26 MSK
 "StackTest.PopOrTop_thatisthequestion" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -625,7 +625,7 @@ Test Passed.
 24/37 Test: StackTest.ClearPush
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.ClearPush" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.ClearPush" start time: Nov 20 14:05 MSK
+"StackTest.ClearPush" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -641,10 +641,10 @@ Note: Google Test filter = StackTest.ClearPush
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.03 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.ClearPush" end time: Nov 20 14:05 MSK
+"StackTest.ClearPush" end time: Nov 23 18:26 MSK
 "StackTest.ClearPush" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -652,7 +652,7 @@ Test Passed.
 25/37 Test: StackTest.Exhaust
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.Exhaust" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.Exhaust" start time: Nov 20 14:05 MSK
+"StackTest.Exhaust" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -668,10 +668,10 @@ Note: Google Test filter = StackTest.Exhaust
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.04 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.Exhaust" end time: Nov 20 14:05 MSK
+"StackTest.Exhaust" end time: Nov 23 18:26 MSK
 "StackTest.Exhaust" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -679,7 +679,7 @@ Test Passed.
 26/37 Test: StackTest.PeekClear
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.PeekClear" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.PeekClear" start time: Nov 20 14:05 MSK
+"StackTest.PeekClear" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -695,10 +695,10 @@ Note: Google Test filter = StackTest.PeekClear
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.03 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.PeekClear" end time: Nov 20 14:05 MSK
+"StackTest.PeekClear" end time: Nov 23 18:26 MSK
 "StackTest.PeekClear" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -706,7 +706,7 @@ Test Passed.
 27/37 Test: StackTest.SizeAroundRemoval
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.SizeAroundRemoval" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.SizeAroundRemoval" start time: Nov 20 14:05 MSK
+"StackTest.SizeAroundRemoval" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -722,10 +722,10 @@ Note: Google Test filter = StackTest.SizeAroundRemoval
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.06 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.SizeAroundRemoval" end time: Nov 20 14:05 MSK
+"StackTest.SizeAroundRemoval" end time: Nov 23 18:26 MSK
 "StackTest.SizeAroundRemoval" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -733,7 +733,7 @@ Test Passed.
 28/37 Test: StackTest.SizePop
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.SizePop" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.SizePop" start time: Nov 20 14:05 MSK
+"StackTest.SizePop" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -749,10 +749,10 @@ Note: Google Test filter = StackTest.SizePop
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.05 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.SizePop" end time: Nov 20 14:05 MSK
+"StackTest.SizePop" end time: Nov 23 18:26 MSK
 "StackTest.SizePop" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -760,7 +760,7 @@ Test Passed.
 29/37 Test: StackTest.PeekClear_2
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.PeekClear_2" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.PeekClear_2" start time: Nov 20 14:05 MSK
+"StackTest.PeekClear_2" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -776,10 +776,10 @@ Note: Google Test filter = StackTest.PeekClear_2
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.03 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.PeekClear_2" end time: Nov 20 14:05 MSK
+"StackTest.PeekClear_2" end time: Nov 23 18:26 MSK
 "StackTest.PeekClear_2" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -787,7 +787,7 @@ Test Passed.
 30/37 Test: StackTest.ClearInMid
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.ClearInMid" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.ClearInMid" start time: Nov 20 14:05 MSK
+"StackTest.ClearInMid" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -803,10 +803,10 @@ Note: Google Test filter = StackTest.ClearInMid
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.07 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.ClearInMid" end time: Nov 20 14:05 MSK
+"StackTest.ClearInMid" end time: Nov 23 18:26 MSK
 "StackTest.ClearInMid" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -814,7 +814,7 @@ Test Passed.
 31/37 Test: StackTest.PopOrTop_thatisthequestion_2
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.PopOrTop_thatisthequestion_2" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.PopOrTop_thatisthequestion_2" start time: Nov 20 14:05 MSK
+"StackTest.PopOrTop_thatisthequestion_2" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -830,10 +830,10 @@ Note: Google Test filter = StackTest.PopOrTop_thatisthequestion_2
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.PopOrTop_thatisthequestion_2" end time: Nov 20 14:05 MSK
+"StackTest.PopOrTop_thatisthequestion_2" end time: Nov 23 18:26 MSK
 "StackTest.PopOrTop_thatisthequestion_2" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -841,7 +841,7 @@ Test Passed.
 32/37 Test: StackTest.MidSizedToken_Put
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.MidSizedToken_Put" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.MidSizedToken_Put" start time: Nov 20 14:05 MSK
+"StackTest.MidSizedToken_Put" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -857,10 +857,10 @@ Note: Google Test filter = StackTest.MidSizedToken_Put
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.07 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.MidSizedToken_Put" end time: Nov 20 14:05 MSK
+"StackTest.MidSizedToken_Put" end time: Nov 23 18:26 MSK
 "StackTest.MidSizedToken_Put" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -868,7 +868,7 @@ Test Passed.
 33/37 Test: StackTest.HugeToken_Put
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.HugeToken_Put" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.HugeToken_Put" start time: Nov 20 14:05 MSK
+"StackTest.HugeToken_Put" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -877,17 +877,17 @@ Note: Google Test filter = StackTest.HugeToken_Put
 [----------] Global test environment set-up.
 [----------] 1 test from StackTest
 [ RUN      ] StackTest.HugeToken_Put
-[       OK ] StackTest.HugeToken_Put (4 ms)
-[----------] 1 test from StackTest (4 ms total)
+[       OK ] StackTest.HugeToken_Put (0 ms)
+[----------] 1 test from StackTest (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (4 ms total)
+[==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.07 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.HugeToken_Put" end time: Nov 20 14:05 MSK
+"StackTest.HugeToken_Put" end time: Nov 23 18:26 MSK
 "StackTest.HugeToken_Put" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -895,7 +895,7 @@ Test Passed.
 34/37 Test: StackTest.MidSizedToken_Peek
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.MidSizedToken_Peek" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.MidSizedToken_Peek" start time: Nov 20 14:05 MSK
+"StackTest.MidSizedToken_Peek" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -911,10 +911,10 @@ Note: Google Test filter = StackTest.MidSizedToken_Peek
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.03 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.MidSizedToken_Peek" end time: Nov 20 14:05 MSK
+"StackTest.MidSizedToken_Peek" end time: Nov 23 18:26 MSK
 "StackTest.MidSizedToken_Peek" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -922,7 +922,7 @@ Test Passed.
 35/37 Test: StackTest.HugeToken_Peek
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.HugeToken_Peek" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.HugeToken_Peek" start time: Nov 20 14:05 MSK
+"StackTest.HugeToken_Peek" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -931,17 +931,17 @@ Note: Google Test filter = StackTest.HugeToken_Peek
 [----------] Global test environment set-up.
 [----------] 1 test from StackTest
 [ RUN      ] StackTest.HugeToken_Peek
-[       OK ] StackTest.HugeToken_Peek (2 ms)
-[----------] 1 test from StackTest (2 ms total)
+[       OK ] StackTest.HugeToken_Peek (1 ms)
+[----------] 1 test from StackTest (1 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (2 ms total)
+[==========] 1 test from 1 test suite ran. (1 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.03 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.HugeToken_Peek" end time: Nov 20 14:05 MSK
+"StackTest.HugeToken_Peek" end time: Nov 23 18:26 MSK
 "StackTest.HugeToken_Peek" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -949,7 +949,7 @@ Test Passed.
 36/37 Test: StackTest.Hang
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.Hang" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.Hang" start time: Nov 20 14:05 MSK
+"StackTest.Hang" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -965,10 +965,10 @@ Note: Google Test filter = StackTest.Hang
 [==========] 1 test from 1 test suite ran. (0 ms total)
 [  PASSED  ] 1 test.
 <end of output>
-Test time =   0.04 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.Hang" end time: Nov 20 14:05 MSK
+"StackTest.Hang" end time: Nov 23 18:26 MSK
 "StackTest.Hang" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -976,7 +976,7 @@ Test Passed.
 37/37 Test: StackTest.Changed
 Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/test_stack" "--gtest_filter=StackTest.Changed" "--gtest_also_run_disabled_tests"
 Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build
-"StackTest.Changed" start time: Nov 20 14:05 MSK
+"StackTest.Changed" start time: Nov 23 18:26 MSK
 Output:
 ----------------------------------------------------------
 Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/Stack/build/_deps/googletest-src/googletest/src/gtest_main.cc
@@ -995,8 +995,8 @@ Note: Google Test filter = StackTest.Changed
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"StackTest.Changed" end time: Nov 20 14:05 MSK
+"StackTest.Changed" end time: Nov 23 18:26 MSK
 "StackTest.Changed" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Nov 20 14:05 MSK
+End testing: Nov 23 18:26 MSK
