@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/play_string.dir/link.d CMakeFiles/play_string.dir/play/main.cpp.o -o play_string  libstring_impl.a

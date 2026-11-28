@@ -1,0 +1,5 @@
+if(EXISTS "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string[1]_tests.cmake")
+  include("/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string[1]_tests.cmake")
+else()
+  add_test(test_string_NOT_BUILT test_string_NOT_BUILT)
+endif()

@@ -1,0 +1,159 @@
+{
+  "tests": 27,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "ExampleTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "Simple",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 6
+        }
+      ]
+    },
+    {
+      "name": "YourTest",
+      "tests": 1,
+      "testsuite": [
+        {
+          "name": "Test",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 18
+        }
+      ]
+    },
+    {
+      "name": "String",
+      "tests": 25,
+      "testsuite": [
+        {
+          "name": "Basic",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 29
+        },
+        {
+          "name": "Const",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 49
+        },
+        {
+          "name": "LongStrings",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 91
+        },
+        {
+          "name": "Streams",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 143
+        },
+        {
+          "name": "Assignments",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 172
+        },
+        {
+          "name": "FindSubstr",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 197
+        },
+        {
+          "name": "Allocations",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 283
+        },
+        {
+          "name": "Compare",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 351
+        },
+        {
+          "name": "ConstructorsDestructor",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 418
+        },
+        {
+          "name": "IndexOperatorRead",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 434
+        },
+        {
+          "name": "IndexOperatorWrite",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 449
+        },
+        {
+          "name": "Empty",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 456
+        },
+        {
+          "name": "CStyleToString",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 477
+        },
+        {
+          "name": "Copy",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 487
+        },
+        {
+          "name": "CopyNotShallow",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 525
+        },
+        {
+          "name": "Assignment",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 584
+        },
+        {
+          "name": "PushBack",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 606
+        },
+        {
+          "name": "PopBack",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 622
+        },
+        {
+          "name": "Output",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 629
+        },
+        {
+          "name": "Input",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 647
+        },
+        {
+          "name": "Plus",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 655
+        },
+        {
+          "name": "PlusAssign",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 688
+        },
+        {
+          "name": "BackFront",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 717
+        },
+        {
+          "name": "FindRfind",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 727
+        },
+        {
+          "name": "ShrinkToFit",
+          "file": "\/mnt\/c\/Users\/Mihail\/Desktop\/C++ Homeworks\/String\/tests\/test.cpp",
+          "line": 754
+        }
+      ]
+    }
+  ]
+}

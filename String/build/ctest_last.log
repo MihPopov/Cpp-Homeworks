@@ -1,0 +1,59 @@
+Test project /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+      Start  1: ExampleTest.Simple
+ 1/27 Test  #1: ExampleTest.Simple ...............   Passed    0.05 sec
+      Start  2: YourTest.Test
+ 2/27 Test  #2: YourTest.Test ....................   Passed    0.02 sec
+      Start  3: String.Basic
+ 3/27 Test  #3: String.Basic .....................   Passed    0.02 sec
+      Start  4: String.Const
+ 4/27 Test  #4: String.Const .....................   Passed    0.04 sec
+      Start  5: String.LongStrings
+ 5/27 Test  #5: String.LongStrings ...............   Passed    0.07 sec
+      Start  6: String.Streams
+ 6/27 Test  #6: String.Streams ...................   Passed    0.04 sec
+      Start  7: String.Assignments
+ 7/27 Test  #7: String.Assignments ...............   Passed    0.08 sec
+      Start  8: String.FindSubstr
+ 8/27 Test  #8: String.FindSubstr ................   Passed    0.02 sec
+      Start  9: String.Allocations
+ 9/27 Test  #9: String.Allocations ...............   Passed    0.01 sec
+      Start 10: String.Compare
+10/27 Test #10: String.Compare ...................   Passed    0.06 sec
+      Start 11: String.ConstructorsDestructor
+11/27 Test #11: String.ConstructorsDestructor ....   Passed    0.02 sec
+      Start 12: String.IndexOperatorRead
+12/27 Test #12: String.IndexOperatorRead .........   Passed    0.01 sec
+      Start 13: String.IndexOperatorWrite
+13/27 Test #13: String.IndexOperatorWrite ........   Passed    0.01 sec
+      Start 14: String.Empty
+14/27 Test #14: String.Empty .....................   Passed    0.01 sec
+      Start 15: String.CStyleToString
+15/27 Test #15: String.CStyleToString ............   Passed    0.01 sec
+      Start 16: String.Copy
+16/27 Test #16: String.Copy ......................   Passed    0.01 sec
+      Start 17: String.CopyNotShallow
+17/27 Test #17: String.CopyNotShallow ............   Passed    0.01 sec
+      Start 18: String.Assignment
+18/27 Test #18: String.Assignment ................   Passed    0.02 sec
+      Start 19: String.PushBack
+19/27 Test #19: String.PushBack ..................   Passed    0.01 sec
+      Start 20: String.PopBack
+20/27 Test #20: String.PopBack ...................   Passed    0.02 sec
+      Start 21: String.Output
+21/27 Test #21: String.Output ....................   Passed    0.02 sec
+      Start 22: String.Input
+22/27 Test #22: String.Input .....................   Passed    0.02 sec
+      Start 23: String.Plus
+23/27 Test #23: String.Plus ......................   Passed    0.01 sec
+      Start 24: String.PlusAssign
+24/27 Test #24: String.PlusAssign ................   Passed    0.03 sec
+      Start 25: String.BackFront
+25/27 Test #25: String.BackFront .................   Passed    0.02 sec
+      Start 26: String.FindRfind
+26/27 Test #26: String.FindRfind .................   Passed    0.01 sec
+      Start 27: String.ShrinkToFit
+27/27 Test #27: String.ShrinkToFit ...............   Passed    0.01 sec
+
+[0;32m100% tests passed[0;0m, 0 tests failed[0;0m out of 27
+
+Total Test time (real) =   1.99 sec

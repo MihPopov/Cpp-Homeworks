@@ -1,0 +1,732 @@
+Start testing: Nov 28 13:25 MSK
+----------------------------------------------------------
+1/27 Testing: ExampleTest.Simple
+1/27 Test: ExampleTest.Simple
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=ExampleTest.Simple" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"ExampleTest.Simple" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ExampleTest.Simple
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ExampleTest
+[ RUN      ] ExampleTest.Simple
+[       OK ] ExampleTest.Simple (0 ms)
+[----------] 1 test from ExampleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"ExampleTest.Simple" end time: Nov 28 13:25 MSK
+"ExampleTest.Simple" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/27 Testing: YourTest.Test
+2/27 Test: YourTest.Test
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=YourTest.Test" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"YourTest.Test" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = YourTest.Test
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from YourTest
+[ RUN      ] YourTest.Test
+[       OK ] YourTest.Test (0 ms)
+[----------] 1 test from YourTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"YourTest.Test" end time: Nov 28 13:25 MSK
+"YourTest.Test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/27 Testing: String.Basic
+3/27 Test: String.Basic
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.Basic" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.Basic" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.Basic
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.Basic
+[       OK ] String.Basic (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"String.Basic" end time: Nov 28 13:25 MSK
+"String.Basic" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/27 Testing: String.Const
+4/27 Test: String.Const
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.Const" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.Const" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.Const
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.Const
+[       OK ] String.Const (1 ms)
+[----------] 1 test from String (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"String.Const" end time: Nov 28 13:25 MSK
+"String.Const" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/27 Testing: String.LongStrings
+5/27 Test: String.LongStrings
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.LongStrings" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.LongStrings" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.LongStrings
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.LongStrings
+[       OK ] String.LongStrings (44 ms)
+[----------] 1 test from String (44 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (44 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"String.LongStrings" end time: Nov 28 13:25 MSK
+"String.LongStrings" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/27 Testing: String.Streams
+6/27 Test: String.Streams
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.Streams" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.Streams" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.Streams
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.Streams
+[       OK ] String.Streams (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"String.Streams" end time: Nov 28 13:25 MSK
+"String.Streams" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/27 Testing: String.Assignments
+7/27 Test: String.Assignments
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.Assignments" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.Assignments" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.Assignments
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.Assignments
+[       OK ] String.Assignments (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"String.Assignments" end time: Nov 28 13:25 MSK
+"String.Assignments" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/27 Testing: String.FindSubstr
+8/27 Test: String.FindSubstr
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.FindSubstr" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.FindSubstr" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.FindSubstr
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.FindSubstr
+[       OK ] String.FindSubstr (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"String.FindSubstr" end time: Nov 28 13:25 MSK
+"String.FindSubstr" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/27 Testing: String.Allocations
+9/27 Test: String.Allocations
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.Allocations" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.Allocations" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.Allocations
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.Allocations
+[       OK ] String.Allocations (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"String.Allocations" end time: Nov 28 13:25 MSK
+"String.Allocations" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/27 Testing: String.Compare
+10/27 Test: String.Compare
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.Compare" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.Compare" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.Compare
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.Compare
+[       OK ] String.Compare (45 ms)
+[----------] 1 test from String (45 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (45 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"String.Compare" end time: Nov 28 13:25 MSK
+"String.Compare" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/27 Testing: String.ConstructorsDestructor
+11/27 Test: String.ConstructorsDestructor
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.ConstructorsDestructor" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.ConstructorsDestructor" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.ConstructorsDestructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.ConstructorsDestructor
+[       OK ] String.ConstructorsDestructor (4 ms)
+[----------] 1 test from String (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"String.ConstructorsDestructor" end time: Nov 28 13:25 MSK
+"String.ConstructorsDestructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/27 Testing: String.IndexOperatorRead
+12/27 Test: String.IndexOperatorRead
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.IndexOperatorRead" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.IndexOperatorRead" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.IndexOperatorRead
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.IndexOperatorRead
+[       OK ] String.IndexOperatorRead (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"String.IndexOperatorRead" end time: Nov 28 13:25 MSK
+"String.IndexOperatorRead" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/27 Testing: String.IndexOperatorWrite
+13/27 Test: String.IndexOperatorWrite
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.IndexOperatorWrite" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.IndexOperatorWrite" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.IndexOperatorWrite
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.IndexOperatorWrite
+[       OK ] String.IndexOperatorWrite (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"String.IndexOperatorWrite" end time: Nov 28 13:25 MSK
+"String.IndexOperatorWrite" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/27 Testing: String.Empty
+14/27 Test: String.Empty
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.Empty" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.Empty" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.Empty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.Empty
+[       OK ] String.Empty (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"String.Empty" end time: Nov 28 13:25 MSK
+"String.Empty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/27 Testing: String.CStyleToString
+15/27 Test: String.CStyleToString
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.CStyleToString" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.CStyleToString" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.CStyleToString
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.CStyleToString
+[       OK ] String.CStyleToString (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"String.CStyleToString" end time: Nov 28 13:25 MSK
+"String.CStyleToString" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/27 Testing: String.Copy
+16/27 Test: String.Copy
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.Copy" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.Copy" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.Copy
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.Copy
+[       OK ] String.Copy (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"String.Copy" end time: Nov 28 13:25 MSK
+"String.Copy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/27 Testing: String.CopyNotShallow
+17/27 Test: String.CopyNotShallow
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.CopyNotShallow" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.CopyNotShallow" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.CopyNotShallow
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.CopyNotShallow
+[       OK ] String.CopyNotShallow (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"String.CopyNotShallow" end time: Nov 28 13:25 MSK
+"String.CopyNotShallow" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/27 Testing: String.Assignment
+18/27 Test: String.Assignment
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.Assignment" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.Assignment" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.Assignment
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.Assignment
+[       OK ] String.Assignment (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"String.Assignment" end time: Nov 28 13:25 MSK
+"String.Assignment" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/27 Testing: String.PushBack
+19/27 Test: String.PushBack
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.PushBack" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.PushBack" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.PushBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.PushBack
+[       OK ] String.PushBack (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"String.PushBack" end time: Nov 28 13:25 MSK
+"String.PushBack" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/27 Testing: String.PopBack
+20/27 Test: String.PopBack
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.PopBack" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.PopBack" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.PopBack
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.PopBack
+[       OK ] String.PopBack (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"String.PopBack" end time: Nov 28 13:25 MSK
+"String.PopBack" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/27 Testing: String.Output
+21/27 Test: String.Output
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.Output" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.Output" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.Output
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.Output
+[       OK ] String.Output (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"String.Output" end time: Nov 28 13:25 MSK
+"String.Output" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/27 Testing: String.Input
+22/27 Test: String.Input
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.Input" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.Input" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.Input
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.Input
+[       OK ] String.Input (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"String.Input" end time: Nov 28 13:25 MSK
+"String.Input" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/27 Testing: String.Plus
+23/27 Test: String.Plus
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.Plus" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.Plus" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.Plus
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.Plus
+[       OK ] String.Plus (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"String.Plus" end time: Nov 28 13:25 MSK
+"String.Plus" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/27 Testing: String.PlusAssign
+24/27 Test: String.PlusAssign
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.PlusAssign" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.PlusAssign" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.PlusAssign
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.PlusAssign
+[       OK ] String.PlusAssign (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"String.PlusAssign" end time: Nov 28 13:25 MSK
+"String.PlusAssign" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/27 Testing: String.BackFront
+25/27 Test: String.BackFront
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.BackFront" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.BackFront" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.BackFront
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.BackFront
+[       OK ] String.BackFront (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"String.BackFront" end time: Nov 28 13:25 MSK
+"String.BackFront" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/27 Testing: String.FindRfind
+26/27 Test: String.FindRfind
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.FindRfind" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.FindRfind" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.FindRfind
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.FindRfind
+[       OK ] String.FindRfind (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"String.FindRfind" end time: Nov 28 13:25 MSK
+"String.FindRfind" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/27 Testing: String.ShrinkToFit
+27/27 Test: String.ShrinkToFit
+Command: "/mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/test_string" "--gtest_filter=String.ShrinkToFit" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build
+"String.ShrinkToFit" start time: Nov 28 13:25 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Mihail/Desktop/C++ Homeworks/String/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = String.ShrinkToFit
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from String
+[ RUN      ] String.ShrinkToFit
+[       OK ] String.ShrinkToFit (0 ms)
+[----------] 1 test from String (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"String.ShrinkToFit" end time: Nov 28 13:25 MSK
+"String.ShrinkToFit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 28 13:25 MSK
